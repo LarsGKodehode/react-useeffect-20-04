@@ -1,0 +1,13 @@
+.timer {
+    text-align: center;
+
+    background-color: brown;
+    padding: 1rem 2rem;
+    border-radius: 20px;
+    border: .5rem goldenrod;
+    border-style: solid inset ridge;
+
+    box-shadow:
+        inset 4px 4px 8px rgba(255, 255, 255, 0.46),
+        2px 2px 8px black;
+}
